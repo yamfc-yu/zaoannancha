@@ -1,0 +1,27 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx6bf4b7daa09bd265",
+# 公众号appSecret
+"app_secret": "44ced77ac236d3fb5e67b0f4b4c01cc1",
+# 模板消息id
+"template_id": "COq95eLq6LUV19ebaEbYLKw4GqnAMFF1lTed4r_XcQc",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["osK0t6rUCTE39m9SevMWjSWFG4dE", "osK0t6gn1emS9qXrNoMFdBSjEe5E"],
+ 
+# 信息配置
+# 和风天气apikey
+"weather_key": "45c1bdd600944b6185d5268f3a5d2ccc",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
+"region": "重庆",
+# 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
+"birthday1": {"name": "南茶", "birthday": "2005-04-22"},
+# 生日2
+"birthday2": {"name": "未曾晓", "birthday": "2003-10-17"},
+# 在一起的日子，格式同上，暂不不支持农历
+"love_date": "2024-07-01",
+# 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
+"note_ch": "如果全世界都不喜欢你，那我就站在你身后，背叛全世界",
+# 金句英文
+"note_en": "If the whole world doesn't like you, then I'll stand behind you and betray the whole world"
+}
