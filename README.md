@@ -26,8 +26,8 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 今天是认识南茶小笨蛋的第{{love_day.DATA}}天 
 
-{{birthday1.DATA}} 
-{{birthday2.DATA}}
+生日1：{{birthday1.DATA}} 
+生日2：{{birthday2.DATA}}
 
 
 {{note_en.DATA}} 
